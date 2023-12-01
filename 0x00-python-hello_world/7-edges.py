@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 word = "Holberton"
-#Print a function that contain the first 3 letters, last 2 letters, and the value of the variable word without the first and last letters.
 word_first_3 = word[:3]
 word_last_2 = word[-2:]
 middle_word = word[1:-1]
